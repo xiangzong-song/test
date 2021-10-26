@@ -1,10 +1,4 @@
-this is file3.
-这是branch1的file3.
-
-this is file3.
-这是branch1的file3.
-
-this is file3.
+333333333333333333333
 这是branch1的file3.
 
 this is file3.
